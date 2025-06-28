@@ -15,24 +15,24 @@ A beautiful Flutter application for discovering, viewing, and managing high-qual
       <td align="center">
         <img src="screens/Screenshot_2025-06-28-14-25-35-61_37a7309db35486b868d26b9df4eee543.jpg" width="250" alt="Image Gallery"/>
         <br/>
-        <em>Image Gallery</em>
+        <em>Favorites Collection</em>
       </td>
       <td align="center">
         <img src="screens/Screenshot_2025-06-28-14-25-43-99_37a7309db35486b868d26b9df4eee543.jpg" width="250" alt="Search Results"/>
         <br/>
-        <em>Search Results</em>
+        <em>Image Detail View</em>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="screens/Screenshot_2025-06-28-14-25-46-67_37a7309db35486b868d26b9df4eee543.jpg" width="250" alt="Image Detail"/>
         <br/>
-        <em>Image Detail View</em>
+        <em>Set Wallpaper</em>
       </td>
       <td align="center">
         <img src="screens/Screenshot_2025-06-28-14-25-54-47_37a7309db35486b868d26b9df4eee543.jpg" width="250" alt="Favorites"/>
         <br/>
-        <em>Favorites Collection</em>
+        <em>Search</em>
       </td>
       <td align="center">
         <!-- Space for additional screenshots -->
